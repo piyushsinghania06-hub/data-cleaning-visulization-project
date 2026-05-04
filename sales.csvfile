@@ -1,0 +1,18 @@
+data-cleaning-visualization-project/
+│
+├── data/
+│   └── sales_data.csv
+│
+├── notebooks/
+│   └── analysis.ipynb
+│
+├── scripts/
+│   └── main.py
+│
+├── outputs/
+│   ├── cleaned_data.csv
+│   ├── sales_trend.png
+│   ├── heatmap.png
+│
+├── README.md
+└── requirements.txt
